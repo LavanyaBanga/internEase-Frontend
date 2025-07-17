@@ -169,11 +169,7 @@ npm run build
 4. Push to branch: `git push origin feature/amazing-feature`
 5. Open a Pull Request
 
-## 📞 Contact
 
-**Phone**: +91 7217535039, +91 91190 78783, +91 87084 96994  
-**Email**: lokendra7217@gmail.com  
-**Address**: Kosi Kalan, Mathura, Uttar Pradesh, India
 
 ## 📄 License
 
